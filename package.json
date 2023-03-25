@@ -1,0 +1,22 @@
+{
+ "name": "satkauptime",
+ "version": "0.0.1",
+ "description": "SeneSatka Tarafından geliştirilen SatkaUptime glitch vb. sitelerde olan botları uptime etmek için kullannılır.",
+ "main": "app.js",
+ "scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1"
+ },
+ "keywords": [
+  "SatkaUptime"
+ ],
+ "author": "EnesTr#4550, SeneSatka",
+ "license": "ISC",
+ "dependencies": {
+  "@types/node": "^18.0.6",
+  "discord.js": "^14.7.1",
+  "dotenv": "^16.0.3",
+  "express": "^4.18.2",
+  "node-fetch": "^2.6.9",
+  "orio.db": "^3.1.2"
+ }
+}
