@@ -6,4 +6,6 @@ Github: SeneSatka
 Discord: EnesTr#4550 
 tarafından yapılmıştır.
 İyi kullanmalar.
-Sorunla karşılaiırsanız discorddan ulaşabilirsiniz.
+Sorunla karşılaşırsanız discorddan ulaşabilirsiniz.
+Replit Link: https://replit.com/@SeneSatka/SatkaUptime
+Glitch Link: https://glitch.com/~senesatka-satkauptime
