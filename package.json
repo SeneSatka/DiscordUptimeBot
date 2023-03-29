@@ -2,7 +2,7 @@
  "name": "satkauptime",
  "version": "0.0.1",
  "description": "SeneSatka Tarafından geliştirilen SatkaUptime glitch vb. sitelerde olan botları uptime etmek için kullannılır.",
- "main": "app.js",
+ "main": "src/index.js",
  "scripts": {
   "test": "echo \"Error: no test specified\" && exit 1"
  },
